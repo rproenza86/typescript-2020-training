@@ -1,0 +1,2 @@
+Use of original Angular logo, unchanged, obtained at https://angular.io/presskit#full-color-logo and licensed under https://creativecommons.org/licenses/by/4.0/legalcode
+Use of original TypeScript Logo by Remo H. Jansen, obtained at https://github.com/remojansen/logo.ts and licensed under https://github.com/remojansen/logo.ts/blob/master/LICENSE
